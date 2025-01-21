@@ -71,5 +71,5 @@ Feel free to fork the repository, make changes, and submit pull requests. Contri
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ---
-For questions or support, please contact El-lunatico(mailto:pushkarkr030@gmail.com).
+For questions or support, please contact El-lunatico.
 
